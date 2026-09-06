@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Tool output — never commit scan results against real targets
+devnull-workspace/
+*.workspace/
+reports/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

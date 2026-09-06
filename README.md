@@ -59,7 +59,7 @@ judgement.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/devnull.git
+git clone https://github.com/Nt-Sahil/devnull.git
 cd devnull
 pip install -r requirements.txt
 
